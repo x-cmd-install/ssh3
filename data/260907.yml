@@ -5,7 +5,7 @@ about:
   head: 5b4b242
   archived: false
   latestVersion: "v0.1.7"
-  collectedAt: 2026-09-07T04:38:28Z
+  collectedAt: 2026-09-07T19:48:53Z
 timeline:
   created: 2023-10-31
   lastCommit: 2024-09-04
@@ -81,7 +81,7 @@ total:
   commit: 239
 ---
 path: /home/runner/.x-repo/github.com/francoismichel/ssh3
-collectedAt: 2026-09-07T04:38:29Z
+collectedAt: 2026-09-07T19:48:55Z
 loc:
   Go:
     code: 7087
@@ -112,7 +112,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:38:30+00:00
+  collectedAt: 2026-09-07T19:48:57+00:00
   platform:
     darwin/arm64:
       name:  ssh3_0.1.7_darwin_arm64.tar.gz
