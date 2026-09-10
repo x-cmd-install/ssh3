@@ -1,0 +1,62 @@
+- repo: aur
+  srcname: ssh3
+  binname: ssh3
+  visiblename: ssh3
+  version: 0.1.7
+  origversion: 0.1.7-1
+  status: newest
+  summary: faster and rich secure shell using HTTP/3
+  maintainers:
+    - kokakiwi@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: ssh3
+  binname: ssh3-server
+  visiblename: ssh3-server
+  version: 0.1.7
+  origversion: 0.1.7-1
+  status: newest
+  summary: faster and rich secure shell using HTTP/3
+  maintainers:
+    - kokakiwi@aur
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: ssh3
+  visiblename: ssh3
+  version: 0.1.7
+  origversion: null
+  status: newest
+  summary: Faster and richer secure shell using HTTP/3
+- repo: homebrew
+  srcname: ssh3
+  visiblename: ssh3
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Faster and richer secure shell using HTTP/3
+- repo: macports
+  srcname: net/ssh3
+  binname: ssh3
+  visiblename: ssh3
+  version: 0.1.7
+  origversion: null
+  status: newest
+  summary: faster and rich secure shell using HTTP/3 - client program
+  maintainers:
+    - i0ntempest@macports
+    - i0ntempest@github
+  licenses:
+    - Apache-2
+  categories:
+    - net
+- repo: scoop
+  subrepo: main
+  binname: ssh3
+  visiblename: ssh3
+  version: 0.1.7
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
