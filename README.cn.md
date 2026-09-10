@@ -4,7 +4,7 @@
 
 SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 
-![ssh3](https://repo.x-cmd.io/ssh3.svg)
+![ssh3](https://repo.x-cmd.io/ssh3.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,31 @@ x install ssh3
 - **最新版本**: `v0.1.7` (2024-01-29)
 - **最近提交**: 2024-09-04
 - **Release 含资产**: 20 个
-- **发布时间**: 2024-01-29T21:55:44Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [ssh3_0.1.7_clientonly_windows_arm64.zip](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_arm64.zip) | 3.0 MiB | `native/win/arm64` |
+| [ssh3_0.1.7_clientonly_windows_armv6.zip](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_armv6.zip) | 3.1 MiB | `native/win/x64` |
+| [ssh3_0.1.7_clientonly_windows_checksums.txt](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_checksums.txt) | 424 B | `native/win/x64` |
+| [ssh3_0.1.7_clientonly_windows_i386.zip](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_i386.zip) | 3.2 MiB | `native/win/x64` |
+| [ssh3_0.1.7_clientonly_windows_x86_64.zip](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_x86_64.zip) | 3.3 MiB | `native/win/x64` |
+| [ssh3_0.1.7_darwin_arm64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_darwin_arm64.tar.gz) | 6.9 MiB | `native/darwin/arm64` |
+| [ssh3_0.1.7_darwin_x86_64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_darwin_x86_64.tar.gz) | 7.2 MiB | `native/darwin/x64` |
+| [ssh3_0.1.7_freebsd_arm64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_freebsd_arm64.tar.gz) | 6.4 MiB | `native/linux/arm64` |
+| [ssh3_0.1.7_freebsd_armv6.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_freebsd_armv6.tar.gz) | 6.6 MiB | `native/linux/arm` |
+| [ssh3_0.1.7_freebsd_i386.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_freebsd_i386.tar.gz) | 6.6 MiB | `native/linux/x86` |
+| [ssh3_0.1.7_freebsd_x86_64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_freebsd_x86_64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [ssh3_0.1.7_linux_arm64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_arm64.tar.gz) | 9.5 MiB | `native/linux/arm64` |
+| [ssh3_0.1.7_linux_arm64_checksums.txt](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_arm64_checksums.txt) | 96 B | `native/linux/arm64` |
+| [ssh3_0.1.7_linux_x86_64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_x86_64.tar.gz) | 10.2 MiB | `native/linux/x64` |
+| [ssh3_0.1.7_linux_x86_64_checksums.txt](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_x86_64_checksums.txt) | 97 B | `native/linux/x64` |
+| [ssh3_0.1.7_openbsd_arm64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_arm64.tar.gz) | 6.3 MiB | `native/linux/arm64` |
+| [ssh3_0.1.7_openbsd_armv6.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_armv6.tar.gz) | 6.5 MiB | `native/linux/arm` |
+| [ssh3_0.1.7_openbsd_i386.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_i386.tar.gz) | 6.5 MiB | `native/linux/x86` |
+| [ssh3_0.1.7_openbsd_x86_64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_x86_64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [ssh3_0.1.7_other_unix_checksums.txt](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_other_unix_checksums.txt) | 979 B | `other` |
 
 ## 流行度
 
@@ -61,4 +85,4 @@ ssh3 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:45:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:24:02Z._

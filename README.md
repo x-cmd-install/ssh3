@@ -23,7 +23,31 @@ x install ssh3
 - **Latest**: `v0.1.7` (2024-01-29)
 - **Last commit**: 2024-09-04
 - **Assets in release**: 20
-- **Published**: 2024-01-29T21:55:44Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ssh3_0.1.7_clientonly_windows_arm64.zip](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_arm64.zip) | 3.0 MiB | `native/win/arm64` |
+| [ssh3_0.1.7_clientonly_windows_armv6.zip](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_armv6.zip) | 3.1 MiB | `native/win/x64` |
+| [ssh3_0.1.7_clientonly_windows_checksums.txt](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_checksums.txt) | 424 B | `native/win/x64` |
+| [ssh3_0.1.7_clientonly_windows_i386.zip](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_i386.zip) | 3.2 MiB | `native/win/x64` |
+| [ssh3_0.1.7_clientonly_windows_x86_64.zip](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_x86_64.zip) | 3.3 MiB | `native/win/x64` |
+| [ssh3_0.1.7_darwin_arm64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_darwin_arm64.tar.gz) | 6.9 MiB | `native/darwin/arm64` |
+| [ssh3_0.1.7_darwin_x86_64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_darwin_x86_64.tar.gz) | 7.2 MiB | `native/darwin/x64` |
+| [ssh3_0.1.7_freebsd_arm64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_freebsd_arm64.tar.gz) | 6.4 MiB | `native/linux/arm64` |
+| [ssh3_0.1.7_freebsd_armv6.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_freebsd_armv6.tar.gz) | 6.6 MiB | `native/linux/arm` |
+| [ssh3_0.1.7_freebsd_i386.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_freebsd_i386.tar.gz) | 6.6 MiB | `native/linux/x86` |
+| [ssh3_0.1.7_freebsd_x86_64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_freebsd_x86_64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [ssh3_0.1.7_linux_arm64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_arm64.tar.gz) | 9.5 MiB | `native/linux/arm64` |
+| [ssh3_0.1.7_linux_arm64_checksums.txt](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_arm64_checksums.txt) | 96 B | `native/linux/arm64` |
+| [ssh3_0.1.7_linux_x86_64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_x86_64.tar.gz) | 10.2 MiB | `native/linux/x64` |
+| [ssh3_0.1.7_linux_x86_64_checksums.txt](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_x86_64_checksums.txt) | 97 B | `native/linux/x64` |
+| [ssh3_0.1.7_openbsd_arm64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_arm64.tar.gz) | 6.3 MiB | `native/linux/arm64` |
+| [ssh3_0.1.7_openbsd_armv6.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_armv6.tar.gz) | 6.5 MiB | `native/linux/arm` |
+| [ssh3_0.1.7_openbsd_i386.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_i386.tar.gz) | 6.5 MiB | `native/linux/x86` |
+| [ssh3_0.1.7_openbsd_x86_64.tar.gz](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_x86_64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [ssh3_0.1.7_other_unix_checksums.txt](https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_other_unix_checksums.txt) | 979 B | `other` |
 
 ## Popularity
 
@@ -57,8 +81,8 @@ Total: **7,119** lines of code across **46** files in the top 5 languages.
 Install metadata for ssh3 lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ssh3` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ssh3.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ssh3.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:45:46Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:24:02Z._
