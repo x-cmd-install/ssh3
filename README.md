@@ -37,7 +37,7 @@ Total: **7,119** lines of code across **46** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,011 · **Forks**: 118 · **Open issues**: 68 · **Contributors**: 15
+- **Stars**: 5,012 · **Forks**: 118 · **Open issues**: 68 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -96,4 +96,4 @@ Install metadata for ssh3 lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:39:19Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:20:20Z._
