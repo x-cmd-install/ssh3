@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3436202,
       "digest": null,
-      "download_count": 656,
+      "download_count": 657,
       "created_at": "2024-01-29T21:57:20Z",
       "updated_at": "2024-01-29T21:57:20Z",
       "browser_download_url": "https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_x86_64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 10674089,
       "digest": null,
-      "download_count": 498,
+      "download_count": 499,
       "created_at": "2024-01-29T21:56:56Z",
       "updated_at": "2024-01-29T21:56:57Z",
       "browser_download_url": "https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_x86_64.tar.gz"
