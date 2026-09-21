@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3252523,
       "digest": null,
-      "download_count": 57,
+      "download_count": 58,
       "created_at": "2024-01-29T21:57:20Z",
       "updated_at": "2024-01-29T21:57:20Z",
       "browser_download_url": "https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_armv6.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3304332,
       "digest": null,
-      "download_count": 182,
+      "download_count": 183,
       "created_at": "2024-01-29T21:57:20Z",
       "updated_at": "2024-01-29T21:57:20Z",
       "browser_download_url": "https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_i386.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3436202,
       "digest": null,
-      "download_count": 661,
+      "download_count": 662,
       "created_at": "2024-01-29T21:57:20Z",
       "updated_at": "2024-01-29T21:57:20Z",
       "browser_download_url": "https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_clientonly_windows_x86_64.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 10674089,
       "digest": null,
-      "download_count": 505,
+      "download_count": 506,
       "created_at": "2024-01-29T21:56:56Z",
       "updated_at": "2024-01-29T21:56:57Z",
       "browser_download_url": "https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_linux_x86_64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 6854617,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2024-01-29T21:58:49Z",
       "updated_at": "2024-01-29T21:58:49Z",
       "browser_download_url": "https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_armv6.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 7233800,
       "digest": null,
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2024-01-29T21:58:50Z",
       "updated_at": "2024-01-29T21:58:51Z",
       "browser_download_url": "https://github.com/francoismichel/ssh3/releases/download/v0.1.7/ssh3_0.1.7_openbsd_x86_64.tar.gz"
